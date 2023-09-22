@@ -2,6 +2,28 @@
 
 Memory recall application, where the user can add texts, photos and videos of important events in their life to a timeline, organized by month and year.
 
+## 🛠️ Stacks
+
+- BackEnd
+
+  - Node.js
+  - Typescript / TSX
+  - Fastify
+  - ESLint
+  - Prisma + SQLite
+
+- FrontEnd
+
+  - React + Next.js
+  - TailwindCSS
+  - ESLint + Prettier Tailwind
+
+- Mobile
+
+  - React Native (expo)
+  - NativeWind
+  - ESLint + Prettier Tailwind
+
 ---
 
 <h3 align="center">
