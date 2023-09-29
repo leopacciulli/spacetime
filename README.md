@@ -1,5 +1,3 @@
-## In Progress
-
 ## 💻 Project
 
 Memory recall application, where the user can add texts, photos and videos of important events in their life to a timeline, organized by month and year.
